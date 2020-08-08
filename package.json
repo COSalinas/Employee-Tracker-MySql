@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker-mysql",
+  "version": "1.0.0",
+  "description": "employee tracker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COSalinas/Employee-Tracker-MySql.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "\"me\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COSalinas/Employee-Tracker-MySql/issues"
+  },
+  "homepage": "https://github.com/COSalinas/Employee-Tracker-MySql#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
